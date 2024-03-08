@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test.dir/modern.cpp.o  -o test  -Wl,-rpath,/home/why/soft/anaconda3/lib /home/why/soft/anaconda3/lib/libpython3.10.so 
